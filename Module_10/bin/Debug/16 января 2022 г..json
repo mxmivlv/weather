@@ -1,0 +1,17 @@
+[
+  {
+    "message": {
+      "city": "Irkutsk",
+      "date": "2022-01-16T17:02:37.0185477+03:00",
+      "coord": {
+        "lon": 104.2964,
+        "lat": 52.2978
+      },
+      "temperature": {
+        "current_temperature": -15.0,
+        "min_temperature": -15.0,
+        "max_temperature": -15.0
+      }
+    }
+  }
+]
